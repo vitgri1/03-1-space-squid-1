@@ -3,7 +3,7 @@ body{
 }
 main{
     margin-left: calc(50% - 400px);
-    margin-top: 200px;
+    margin-top: calc(50vh - 300px);
     width: 800px;
     height: 600px;
     background-image: url(./bg.webp);
